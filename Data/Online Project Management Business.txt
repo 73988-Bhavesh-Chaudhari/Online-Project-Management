@@ -1,0 +1,17 @@
+Business Entity :-
+
+Employee Login :-
+Employee login id
+valid password
+Forgot password
+sign up
+sign in
+
+Manager Login :-
+Manager login id
+valid password
+Forgot password
+
+
+
+ 

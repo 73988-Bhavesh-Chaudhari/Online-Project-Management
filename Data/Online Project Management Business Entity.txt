@@ -1,0 +1,52 @@
+Business Entity :-
+
+Employee Login :-
+Employee login id
+valid password
+Forgot password
+sign up
+sign in
+
+Manager Login :-
+Manager login id
+valid password
+Forgot password
+
+Assign Task :-
+Employee id
+Manager id
+Ename
+Mname
+Project Name
+Assign date
+
+Conference and Commuication :-
+Conference meeting msg
+Employee id
+Manager id
+option :- video,Test conferencing
+
+Working Status :-
+Employee id
+Manager id
+Project name
+Project status till today
+Today Date
+
+Client Contact:-
+Manager id
+Client id
+client name
+project name
+meeting date
+
+Standup Meeting :-
+Employee id
+Manager id
+Project name
+Project status till today
+Meeting date
+assign new task
+
+
+ 

@@ -1,0 +1,14 @@
+Title :- Software Requrement Specification for Online Project Managememt system.
+
+Objective :- Online Project Management is a web based application to provide service to user and some functional requirements.
+
+Team :- Direct Customer,Indirect Customer,Business Analyst,Testing Team,Development Team.
+
+Scope :- Online Project Management System is a web-based application that allows employee and manager to use this system. The system will provide an easy-to-use interface for users to search for events.
+
+Functional requirements :- 
+In this application Manager is admin role.all access is under the manager. user want to add functionality is add employee with valid
+employee id,valid names etc any other person not allow access to the application. also add exsisting employee edit functionality.
+assign project to employee is functionality is needed. conference and communication functionality is required in allpication.
+status of work complete and pending functionality is nedded. access to manager is remove add assign project any other task to employees,
+daily standup meeting finctionaity is required.only this client communicate assess to managr.logout employee functionality is also ther.
